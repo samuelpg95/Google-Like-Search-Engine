@@ -1,14 +1,15 @@
 # HTML, CSS, and JavaScript
 
-This is the Template Repl for HTML, CSS, and JavaScript.
+This is my first project using HTML, CSS and Javascript. 
 
-HTML, CSS, and JavaScript are the languages that make up the web. Every web page you see in your browser uses each of these to some degree.
+For this learning process, I decided to replicate Google Search Engine with Google's Visual Identity. 
 
-Check out Mozilla's docs for each here:
-- [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
-- [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
-- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+The searching is completely functional as well as some buttons. 
+
+Here are some prints from this project.
 
 <p align="center">
   <img src="images/Google-Project.png" >
 </p>
+
+
