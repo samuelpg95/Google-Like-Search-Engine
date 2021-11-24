@@ -8,3 +8,7 @@ Check out Mozilla's docs for each here:
 - [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
 - [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+
+<p align="center">
+  <img src="images/Google-Project.png" >
+</p>
